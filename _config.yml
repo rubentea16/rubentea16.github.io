@@ -4,8 +4,10 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Ruben Stefanus
-title: Machine Learning Engineer 👨‍💻📊
-title: self proclaimed data wizard 🧙‍♂️
+title: |
+   Machine Learning Engineer 👨‍💻📊.
+
+   self proclaimed data wizard 🧙‍♂️
 email: rstefanus16@gmail.com
 
 darkmode: true
