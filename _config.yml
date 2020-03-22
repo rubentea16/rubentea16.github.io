@@ -11,24 +11,31 @@ website: www.github.com/sproogen/resume-theme
 darkmode: true
 
 # Social links
-twitter_username: rubentea16
 github_username:  rubentea16
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
 instagram_username: rubenstefanus
 linkedin_username: rubenstefanus
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Ruben and I'm a Machine Learning Engineer. I do data science, AI and enjoys to solve problem using data. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+I trust Data and Technology it's not only about complex/fancy things, but from my opinion it's all about use it to give social impact and enhance every aspect of our life. And then i realize it has huge power same as government power to make changes of our life.
+
+I like to exploring and learning something new about data and tech industry, feel free to connect and have conversation with me. 
+
+The things that I currently have the most experience working with are:
+  <mark>Python</mark>,
+  <mark>Machine Learning</mark>,
+  <mark>NLP</mark>,
+  <mark>Keras</mark>,
+  <mark>Tensorflow</mark>,
+  <mark>Scikit-Learn</mark>,
+  <mark>Docker</mark>,
+  <mark>SQL</mark>,
+  <mark>Pandas</mark> and
+  <mark>GCP</mark> services.
 
 # Projects Section
 # projects_title: Projects
@@ -42,14 +49,14 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+My hobbies are:
+   - Reading books
+   - Watching movies
+   - Listen music
+   - Do machine learning stuff
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: rubentea16/rubentea16.github.io
