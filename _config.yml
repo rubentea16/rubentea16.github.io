@@ -52,7 +52,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: false
 
 # Build settings
-remote_theme: rubentea16/rubentea16.github.io
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
