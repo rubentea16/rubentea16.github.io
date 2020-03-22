@@ -6,7 +6,6 @@ favicon: images/favicon.ico
 name: Ruben Stefanus
 title: Machine Learning Engineer
 email: rstefanus16@gmail.com
-website: www.github.com/sproogen/resume-theme
 
 darkmode: true
 
@@ -46,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  My hobbies are -> Reading books, Watching movies, Listen music, Do machine learning stuff.
+  My hobbies are -> <mark>Reading books</mark>, <mark>Watching movies</mark>, <mark>Listen music</mark>, <mark>Do machine learning stuff</mark>.
 
 # Footer
 footer_show_references: false
