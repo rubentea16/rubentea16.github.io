@@ -46,14 +46,17 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-My hobbies are:
-   - Reading books
-   - Watching movies
-   - Listen music
-   - Do machine learning stuff
+  My hobbies are -> Reading books, Watching movies, Listen music, Do machine learning stuff.
 
 # Footer
 footer_show_references: false
 
 # Build settings
 remote_theme: rubentea16/rubentea16.github.io
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
