@@ -19,14 +19,11 @@ linkedin_username: rubenstefanus
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ruben and I'm a Machine Learning Engineer. I do data science, AI and enjoys to solve problem using data. 
-
-  I trust Data and Technology it's not only about complex/fancy things, but from my opinion it's all about use it to give social impact and enhance every aspect of our life. And then i realize it has huge power same as government power to make changes of our life.
-
-  I like to exploring and learning something new about data and tech industry, feel free to connect and have conversation with me. 
-
-The things that I currently have the most experience working with are:
-  <mark>Python</mark>,
+  Hi, my name's Ruben and I'm a Machine Learning Engineer. I do data science, AI and enjoys to solve problem using data.
+  I trust Data and Technology it's not only about complex/fancy things, but from my opinion it's all about use it to give social impact and enhance every aspect of our life.
+  And then i realize it has huge power same as government power to make changes of our life.
+  I like to exploring and learning something new about data and tech industry, feel free to connect and have conversation with me.   
+  The things that I currently have the most experience working with are:<mark>Python</mark>,
   <mark>Machine Learning</mark>,
   <mark>NLP</mark>,
   <mark>Keras</mark>,
