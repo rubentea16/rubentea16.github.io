@@ -9,7 +9,7 @@
    Utilizing technology as our core, we’re creating an ecosystem that allows Warung to maximize its potential as a new micro-business golden standard in Indonesia by providing them the windows of opportunity for goods ordering, data processing and analysis, community engagement, as well as impact monitoring <mark>#TumbuhBarengWarung</mark>
 
   description: | # this will include new lines to allow paragraphs
-    Create and develop NLP products such as NER for purchase order at warung, intent detection and slot filling, etc
+    Create and develop NLP products such as <mark>NER</mark> for purchase order at warung, <mark>intent detection</mark> and <mark>slot filling</mark>, etc
 
 - layout: right
   company: Berca Hardayaperkasa
@@ -33,4 +33,4 @@
   quote: >
    Learning and Experience Center for Robotics, Embedded Systems, Artificial Intelligence
   description: | # this will include new lines to allow paragraphs
-    Teach about programming Arduino IDE, AVR, Robotics and Sensors
+    Teach about programming <mark>Arduino IDE</mark>, <mark>AVR</mark>, <mark>Robotics</mark> and <mark>Sensors</mark>
