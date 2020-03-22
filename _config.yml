@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: rubentea16/rubentea16.github.io
 favicon: images/favicon.ico
 
 # Personal info
@@ -8,14 +8,16 @@ title: Machine Learning Engineer
 email: rstefanus16@gmail.com
 website: www.github.com/sproogen/resume-theme
 
+darkmode: true
+
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: rubentea16
+github_username:  rubentea16
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: rubenstefanus
+linkedin_username: rubenstefanus
 # pinterest_username: jekyll
 youtube_username: globalmtb
 # googleplus_username: +jekyll
