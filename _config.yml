@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  My hobbies are -> <mark>Reading books</mark>, <mark>Watching movies</mark>, <mark>Listen music and podcast</mark>, <mark>Do machine learning stuff</mark>.
+  My hobbies are -> <mark>Reading books</mark>, <mark>Watching movies</mark>, <mark>Listening music and podcast</mark>, <mark>Doing machine learning stuff</mark>.
 
 # Footer
 footer_show_references: false
