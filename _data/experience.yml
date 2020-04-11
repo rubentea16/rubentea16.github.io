@@ -9,8 +9,8 @@
    Utilizing technology as our core, we’re creating an ecosystem that allows Warung to maximize its potential as a new micro-business golden standard in Indonesia by providing them the windows of opportunity for goods ordering, data processing and analysis, community engagement, as well as impact monitoring <mark>#TumbuhBarengWarung</mark>
 
   description: | # this will include new lines to allow paragraphs
-    Figure out and solve problem from another business unit using machine learning
-    Create and develop NLP products such as <mark>NER</mark> for purchase order at warung, <mark>intent detection</mark> and <mark>slot filling</mark>, etc
+    - Figure out and solve problem from another business unit using machine learning
+    - Create and develop NLP products such as <mark>NER</mark> for purchase order at warung, <mark>intent detection</mark> and <mark>slot filling</mark>, etc
 
 - layout: right
   company: Berca Hardayaperkasa
@@ -20,11 +20,9 @@
   quote: >
    IT Consultant company which focus on database, big data and data science
   description: | # this will include new lines to allow paragraphs
-    Do some research and create data science project as data scientist role.
-
-    Responsible for provide technical support, perform trouble-shooting functions and resolve client issues as technical consultant role.
- 
-    Implement IT system for project in Big Data.
+    - Do some research and create data science project as data scientist role
+    - Responsible for provide technical support, perform trouble-shooting functions and resolve client issues as technical consultant role
+    - Implement IT system for project in Big Data
 
 - layout: right
   company: NEXT SYSTEM Robotics Learning and Experience Center
