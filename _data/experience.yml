@@ -1,4 +1,16 @@
 - layout: right
+  company: Jakarta Artificial Intelligence Research
+  link: https://github.com/jakartaresearch/
+  job_title: Researcher
+  dates: April 2020 - Present
+  quote: >
+   A research community that aims to implement and develop Artificial Intelligence (AI) in Indonesia. On a mission to improve people's life through AI applications
+
+  description: | # this will include new lines to allow paragraphs
+    - Actively do research project in AI, ML, Data Science
+    - Create and publish article, paper, etc
+
+- layout: right
   company: Warung Pintar
   link: https://warungpintar.co.id/
   job_title: Machine Learning Engineer
@@ -9,8 +21,9 @@
    Utilizing technology as our core, we’re creating an ecosystem that allows Warung to maximize its potential as a new micro-business golden standard in Indonesia by providing them the windows of opportunity for goods ordering, data processing and analysis, community engagement, as well as impact monitoring <mark>#TumbuhBarengWarung</mark>
 
   description: | # this will include new lines to allow paragraphs
+    - Create and develop <mark>NLP</mark> engine
+    - Implement some of <mark>machine learning pipeline</mark>
     - Figure out and solve problem from another business unit using machine learning
-    - Create and develop NLP products such as <mark>NER</mark> for purchase order at warung, <mark>intent detection</mark> and <mark>slot filling</mark>, etc
 
 - layout: right
   company: Berca Hardayaperkasa
@@ -26,7 +39,7 @@
 
 - layout: right
   company: NEXT SYSTEM Robotics Learning and Experience Center
-  link: 
+  link: http://nextsys.web.id/edukasi/
   job_title: Microcontroller Trainer
   dates: April 2016 - November 2018
   quote: >
