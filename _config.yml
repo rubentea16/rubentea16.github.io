@@ -20,7 +20,6 @@ instagram_username: rubenstefanus
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Ruben and I'm a Machine Learning Engineer 👨‍💻📊.
-  - Self proclaimed data wizard 🧙‍♂️ 
 
 I do data science, AI and enjoys to solve problem using data.
 
@@ -41,6 +40,7 @@ I do data science, AI and enjoys to solve problem using data.
   <mark>Google Cloud Platform</mark> services.
 
   I like to exploring and learning something new about data and tech industry, feel free to connect and have conversation with me.
+  - Self proclaimed data wizard 🧙‍♂️ 
 
 # Experience Section
 # experience_title: Experience
