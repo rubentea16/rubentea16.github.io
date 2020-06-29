@@ -10,7 +10,7 @@
     - Actively do research project in AI, ML, Data Science
     - Create and publish article, paper, etc
 
-- layout: right
+- layout: left
   company: Warung Pintar
   link: https://warungpintar.co.id/
   job_title: Machine Learning Engineer
@@ -27,7 +27,7 @@
 
 - layout: right
   company: Berca Hardayaperkasa
-  link: 
+  link: https://www.berca.co.id/
   job_title: Data Scientist and Technical Consultant
   dates: April 2019 - October 2019
   quote: >
@@ -37,7 +37,7 @@
     - Responsible for provide technical support, perform trouble-shooting functions and resolve client issues as technical consultant role
     - Implement IT system for project in Big Data
 
-- layout: right
+- layout: left
   company: NEXT SYSTEM Robotics Learning and Experience Center
   link: http://nextsys.web.id/edukasi/
   job_title: Microcontroller Trainer

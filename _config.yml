@@ -8,12 +8,13 @@ title: Machine Learning Engineer | Data Scientist | AI Researcher
 email: rstefanus16@gmail.com
 website: https://medium.com/@rstefanus16
 
-darkmode: true
+darkmode: never
 
 # Social links
 github_username:  rubentea16
 linkedin_username: rubenstefanus
 instagram_username: rubenstefanus
+twitter_username: mindbelowink
 
 # About Section
 # about_title: About Me
@@ -23,7 +24,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I do data science, AI and enjoys to solve problem using data.
 
-  	I trust Data and Technology it's not only about complex/fancy things, but from my opinion it's all about use it to give social impact and enhance every aspect of our life. And then i realize it has huge power same as government power to make changes of our life.
+  	I believe Data and Technology it's not only about complex/fancy things, but from my opinion it's all about use it to give social impact and enhance every aspect of our life. And then i realize it has huge power same as government power to make changes of our life.
    
   The things that I currently have the most experience working with are :<mark>Python</mark>,
   <mark>Machine Learning</mark>,
