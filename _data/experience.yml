@@ -11,6 +11,18 @@
     - Create and publish article, paper, etc
 
 - layout: left
+  company: Data Science Indonesia
+  link: https://datascience.or.id/
+  job_title: Researcher
+  dates: April 2020 - Present
+  quote: >
+   Data Science Indonesia (DSI) is a community which was established on May 2015 and consist of a group of scientists, artists and learners who have objective to create Data Driven Culture in Indonesia. Through Data Science approach, we explore the value of data and transform it into usefull information for the society.
+
+  description: | # this will include new lines to allow paragraphs
+    - PIC Fundamental Pillar
+    - Speaker at Melek For Member (MFM) Donation Event
+
+- layout: right
   company: Warung Pintar
   link: https://warungpintar.co.id/
   job_title: Machine Learning Engineer
@@ -25,7 +37,7 @@
     - Implement some of <mark>machine learning pipeline</mark>
     - Figure out and solve problem from another business unit using machine learning
 
-- layout: right
+- layout: left
   company: Berca Hardayaperkasa
   link: https://www.berca.co.id/
   job_title: Data Scientist and Technical Consultant
@@ -37,7 +49,7 @@
     - Responsible for provide technical support, perform trouble-shooting functions and resolve client issues as technical consultant role
     - Implement IT system for project in Big Data
 
-- layout: left
+- layout: right
   company: NEXT SYSTEM Robotics Learning and Experience Center
   link: http://nextsys.web.id/edukasi/
   job_title: Microcontroller Trainer
