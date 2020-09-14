@@ -1,14 +1,14 @@
 - layout: right
   company: Jakarta Artificial Intelligence Research
   link: https://github.com/jakartaresearch/
-  job_title: Researcher
+  job_title: AI Researcher - Core Team
   dates: April 2020 - Present
   quote: >
    A research community that aims to implement and develop Artificial Intelligence (AI) in Indonesia. On a mission to improve people's life through AI applications
 
   description: | # this will include new lines to allow paragraphs
-    - Actively do research project in AI, ML, Data Science
-    - Create and publish article, paper, etc
+    - Actively do research project in AI
+    - Actively hold weekly discussions that discuss about AI
 
 - layout: left
   company: Data Science Indonesia
@@ -19,7 +19,7 @@
    Data Science Indonesia (DSI) is a community which was established on May 2015 and consist of a group of scientists, artists and learners who have objective to create Data Driven Culture in Indonesia. Through Data Science approach, we explore the value of data and transform it into usefull information for the society.
 
   description: | # this will include new lines to allow paragraphs
-    - PIC Fundamental Pillar
+    - Actively do research project and publish it
     - Speaker at Melek For Member (MFM) Donation Event
 
 - layout: right
@@ -33,28 +33,37 @@
    Utilizing technology as our core, we’re creating an ecosystem that allows Warung to maximize its potential as a new micro-business golden standard in Indonesia by providing them the windows of opportunity for goods ordering, data processing and analysis, community engagement, as well as impact monitoring <mark>#TumbuhBarengWarung</mark>
 
   description: | # this will include new lines to allow paragraphs
-    - Create and develop <mark>NLP</mark> engine
-    - Implement some of <mark>machine learning pipeline</mark>
-    - Figure out and solve problem from another business unit using machine learning
+    - Create <mark>machine learning model</mark> for another business unit (i.e. product team, customer acquisition team, etc)
+    - Responsible for create <mark>end-to-end</mark> machine learning <mark>engine</mark> (from data untill become API for inference the model)
+    - Implementation machine learning <mark>pipeline</mark> for internal use
+    - <mark>Research</mark> and create NLP engine which is have possibility to embed with our business
 
 - layout: left
   company: Berca Hardayaperkasa
   link: https://www.berca.co.id/
-  job_title: Data Scientist and Technical Consultant
+  job_title: Technical Consultant (Data and Analytics)
   dates: April 2019 - October 2019
   quote: >
    IT Consultant company which focus on database, big data and data science
   description: | # this will include new lines to allow paragraphs
-    - Do some research and create data science project as data scientist role
-    - Responsible for provide technical support, perform trouble-shooting functions and resolve client issues as technical consultant role
-    - Implement IT system for project in Big Data
+    Handle TIBCO Data Science Platform project for telecom company and ensure that users can flawless migrate to new platform
+    - End-to-end implementation in TIBCO Data Science Platform
+    - Responsible for solving problems and difficulties faced by users
+    - Integrate TIBCO DS platform with SQL database (i.e. Greenplum, PostgreSQL, Teradata, Oracle), Big Data tools (i.e. Hadoop, Cloudera, Spark, Hive)
+    - Train users how to use the platform
+
+    Handle ETL Data Warehouse Report project using Ab Initio for telecom company and ensure that the new ETL jobs works well and better from aspect of computing time, ETL process complexity
+    - Create ETL jobs a.k.a Graph from Data Mart SQL query for migrate data from SQL database to HDFS in Cloudera
+    - Did ETL from various data resources like Teradata, Greenplum, Oracle and Cloudera
+    - QA Testing for result table of ETL jobs
 
 - layout: right
-  company: NEXT SYSTEM Robotics Learning and Experience Center
+  company: NEXT SYSTEM Robotics Experience and Learning Center
   link: http://nextsys.web.id/edukasi/
-  job_title: Microcontroller Trainer
+  job_title: Trainer Robotics and Microcontroller
   dates: April 2016 - November 2018
   quote: >
    Learning and Experience Center for Robotics, Embedded Systems, Artificial Intelligence
   description: | # this will include new lines to allow paragraphs
-    Teach about programming <mark>Arduino IDE</mark>, <mark>AVR</mark>, <mark>Robotics</mark> and <mark>Sensors</mark>
+    - Teach about the <mark>AVR Microcontroller</mark>, programming for <mark>Arduino</mark>, various kinds of sensors and their implementation in the real world, and how to build a robot
+    - Deliver and explain about the concept, implementation, and guide students
