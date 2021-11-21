@@ -22,7 +22,7 @@ subtitle                 : "Log Book"
 name                     : &name "Ruben Stefanus"
 description              : &description "Data Science, Machine Learning, Artificial Intelligence."
 url                      : "https://rubentea16.github.io"
-baseurl                  : "/about"
+baseurl                  : 
 repository               : "rubentea16"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/R.png"
