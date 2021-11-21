@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "ABOUT"
+  - title: "About"
     url: /about/
   - title: "CV"
     url: /cv/
-  - title: "PROJECTS"
+  - title: "Projects"
     url: /projects/
-  - title: "BLOG"
+  - title: "Blog"
     url: /year-archive/
-  - title: "PUBLICATIONS"
+  - title: "Publications"
     url: /publications/
