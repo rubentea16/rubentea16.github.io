@@ -260,8 +260,8 @@ compress_html:
 defaults:
   # _projects
   - scope:
-      path: "_projects"
-      type: projects
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: true
