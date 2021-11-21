@@ -3,6 +3,8 @@ title: "Curriculum Vitae"
 permalink: /cv/
 layout: single
 author_profile: true
+header:
+    overlay_image: /assets/images/overlay-img.jpg
 ---
 
 ## Career

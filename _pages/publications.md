@@ -3,6 +3,8 @@ title: "Publications"
 permalink: /publications/
 layout: single
 author_profile: true
+header:
+    overlay_image: /assets/images/overlay-img.jpg
 ---
 
 ## Machine Learning @ NVIDIA

@@ -118,17 +118,17 @@ author:
       url: "mailto:rstefanus16@gmail.com"
 
 # Site Footer
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/rubenstefanus"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/rubentea16"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:rstefanus16@gmail.com"
+# footer:
+#   links:
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/in/rubenstefanus"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/rubentea16"
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:rstefanus16@gmail.com"
 
 
 # Reading Files
@@ -258,7 +258,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _projects
+  # _posts
   - scope:
       path: ""
       type: posts
