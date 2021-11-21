@@ -22,10 +22,10 @@ subtitle                 : "Log Book"
 name                     : &name "Ruben Stefanus"
 description              : &description "Data Science, Machine Learning, Artificial Intelligence."
 url                      : "https://rubentea16.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/about"
 repository               : "rubentea16"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/R.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -121,7 +121,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rubenstefanus"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -258,10 +258,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _projects
   - scope:
-      path: ""
-      type: posts
+      path: "_projects"
+      type: projects
     values:
       layout: single
       author_profile: true

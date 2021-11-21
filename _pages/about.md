@@ -28,4 +28,3 @@ The main purposes of this website are listed here:
 - Record my personal achievements
 
 It should be noted that all the contents of this website are solely my own and do not express the views or opinions of my employer.
----
