@@ -30,3 +30,5 @@ _asset_bundler_cache
 _site
 
 /.quarto/
+images
+posts

@@ -8,7 +8,7 @@ website:
   navbar:
     left:
     - about.qmd
-    - text: "Ruben'Log"
+    - text: "Blog"
       href: index.qmd
     right:
       - icon: github
