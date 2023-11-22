@@ -7,9 +7,9 @@ website:
   google-analytics: "UA-158677010-1"
   navbar:
     left:
-    - text: "Ruben Stefanus -- Blog"
-      href: index.qmd   
     - about.qmd
+    - text: "Ruben'Log"
+      href: index.qmd
     right:
       - icon: github
         href: https://github.com/rubentea16
