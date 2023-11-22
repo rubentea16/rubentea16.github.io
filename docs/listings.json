@@ -1,7 +1,9 @@
 [
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/posts/2022-07-04-swintransformerv1.html"
+    ]
   },
   {
     "listing": "/posts/2023-03-11_Understanding_CLIP_part_2.html",

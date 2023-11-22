@@ -15,9 +15,6 @@ website:
         href: https://github.com/rubentea16
       - icon: linkedin
         href: https://linkedin.com/in/rubenstefanus/
-  twitter-card: true
-  # (additional metadata excluded for brevity)
-  body-footer: subscribe.html
 format:
   html:
     theme: cosmo
