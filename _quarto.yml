@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  favicon: ./images/logo.png
+  google-analytics: "UA-158677010-1"
+  navbar:
+    left:
+    - text: "Ruben Stefanus -- Blog"
+      href: index.qmd   
+    - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/rubentea16
+      - icon: linkedin
+        href: https://linkedin.com/in/rubenstefanus/
+  twitter-card: true
+  # (additional metadata excluded for brevity)
+  body-footer: subscribe.html
+format:
+  html:
+    theme: cosmo
