@@ -1,0 +1,37 @@
+---
+title: "Ruben Stefanus"
+about:
+  template: marquee
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/rubenstefanus/
+    - icon: github
+      text: Github
+      href: https://github.com/rubentea16
+---
+
+Ruben Stefanus is Data Scientist at [Halodoc](https://www.halodoc.com/) and Co-Founder of [Jakarta Artificial Intelligence Research](https://linktr.ee/jakartaresearch).
+
+First and foremost, I love data and technology. 
+The thought of how data and technology could solve real problems and improve our lives really amazed me ✨
+
+Therefore, I majored in Electrical Engineering ⚡️ with a Computer Engineering 💻 minor, which is at the heart of many modern technologies today
+
+All of that led me to go deep into the fields of Data Science
+
+- 🔥 I'm deeply passionate about creating impact and solve the real problems
+- ☕️ I also like to meet people over coffee
+- ✨ Bringing research and innovation into the real world
+
+Outside of work, Ruben enjoys reading book, listening to podcasts, workout in gym, teaching and mentoring people.
+
+
+## Experience
+1. **Data Scientist**, Halodoc, Nov 2022 – Present 
+2. **Data Scientist**, Finantier, Oct 2021 – Nov 2022
+3. **Data Scientist**, Warung Pintar, Jan 2020 – Oct 2021
+4. **Technical Consultant (Data and Analytics)**, Berca Hardayaperkasa, Apr 2019 – Oct 2019 
+
+## Education
+1. **Bachelor of Technology - BTech**, Electrical Engineering, Maranatha Christian University
